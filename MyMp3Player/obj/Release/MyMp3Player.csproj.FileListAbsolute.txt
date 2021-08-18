@@ -1,0 +1,10 @@
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\bin\Release\MyMp3Player.exe.config
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\bin\Release\MyMp3Player.exe
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\bin\Release\MyMp3Player.pdb
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.Form1.resources
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.Properties.Resources.resources
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.csproj.GenerateResource.cache
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.csproj.CoreCompileInputs.cache
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.exe
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.pdb
+D:\codes\csharp\Projects\MyMp3Player\MyMp3Player\obj\Release\MyMp3Player.csprojAssemblyReference.cache

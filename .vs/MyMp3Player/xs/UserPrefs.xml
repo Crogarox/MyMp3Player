@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AE043572-3CDD-42A9-B659-CEE27DA59F03}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.MyMp3Player PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyMp3Player\Form1.cs">
+    <Files>
+      <File FileName="MyMp3Player\Form1.cs" Line="1" Column="1" />
+      <File FileName="MyMp3Player\Mp3Player.cs" Line="1" Column="1" />
+      <File FileName="MyMp3Player\Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyMp3Player" expanded="True">
+            <Node name="MyMp3Player" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
